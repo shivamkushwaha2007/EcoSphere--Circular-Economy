@@ -1,0 +1,6 @@
+{
+  "name": "EcoSphere",
+  "description": "Give Products More Life. Intelligent circular marketplace for buying, selling, repairing, and recycling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
