@@ -1,4 +1,4 @@
-# CIRVANA — Circular Economy Marketplace
+# EcoSphere— Circular Economy Marketplace
 
 > **“Keep products in use. Keep resources in motion.”**
 > AI Zero-Waste Infrastructure • Multimodal Vision Diagnostics • Right-to-Repair Network • Live Scrap Index
